@@ -32,7 +32,7 @@ Also, change the styling of the nav links for when the user hovers over them.
 Add a preformatted SVG image of a section break (some design) to make a more smooth transition between sections. Use an online SVG generator to create this SVG, and have the colors match the page. See the resources section for some online SVG generators.
 
 ### Q5. Insert an `<iframe>`
-Using the iframe arhitecture, insert a website of your choice into the `.iframe` div. The website can be anything you want, such as a map, a video, or a social media feed. The website should be responsive and should fit within the `.iframe` div.
+Using the iframe architecture, insert a website of your choice into the `.iframe` div. The website can be anything you want, such as a map, a video, or a social media feed. The website should be responsive and should fit within the `.iframe` div.
 
 > [!TIP]
 > Some websites may not work with iframes. It's important to test the website you choose to make sure it works with iframes. Also, try to limit the interactivity of the iframe to just one page or action, as to not inhibit your websites purpose.
