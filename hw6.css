@@ -1,0 +1,19 @@
+.carousel {
+    width: 80%; /* Adjust the width as needed */
+    max-width: 800px; /* Set a maximum width */
+    margin-top: 40px; /* Center the carousel */
+    margin-left:30%;
+    margin-bottom: 100px ;
+    border: 5px solid #946727;
+    border-radius: 15px;
+}
+
+.carousel img {
+    height: 400px; /* Adjust the height as needed */
+    object-fit: cover; /* Ensures the image covers the entire height */
+    border-radius: 10px;
+}
+#trophy{
+    color: #ffffff;
+    font-size: xx-large;
+}
